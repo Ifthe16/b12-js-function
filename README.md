@@ -1,5 +1,6 @@
 # Fundamentals Of Functions
-- Declare function
+- Declare `function`
 - Handle multiple parameters
-- Call function with arguments
-- Function return
+- Call `function` with arguments
+- Function `return`
+- Conditional `return`
